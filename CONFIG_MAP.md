@@ -101,3 +101,9 @@ Incrementar quando houver:
 | ------ | ---------- | ----------------------------------------------------------------------------------------------- |
 | v0.1.0 | 2026-05-07 | Versão inicial com estrutura base do projeto, análise inicial do dataset e documentação inicial |
 
+# Registro de Baselines
+
+| Baseline | Tag | Data | Descrição |
+|---|---|---|---|
+| BL-001 | v1.0.0 | 2026-05-07 | Estrutura inicial do projeto, configuração base do ambiente, documentação inicial e análise preliminar do dataset |
+
